@@ -1,14 +1,12 @@
-header, footer {
-    padding: 10px;
-}
-
 ul {
     list-style: none;
     text-decoration: none;
   }
 
-  li {
+  li, a{
     list-style:none;
     text-decoration: none;
   }
-  
+  nav ul {
+    text-decoration: none;
+  }
